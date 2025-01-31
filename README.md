@@ -1,2 +1,1 @@
-# FREEDUROV Vernit
-e2007
+# FREEDUROV 
